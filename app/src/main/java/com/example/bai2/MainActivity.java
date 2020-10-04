@@ -1,5 +1,4 @@
 package com.example.bai2;
-g
 import android.os.Bundle;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
@@ -53,4 +52,6 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+}
+public class Studen{
 }
